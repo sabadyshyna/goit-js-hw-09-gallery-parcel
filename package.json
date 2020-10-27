@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-08-gallery",
+  "name": "goit-js-hw-09-gallery-parcel",
   "version": "1.0.0",
   "description": "gallery",
   "main": "index.js",
@@ -9,18 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabadyshyna/goit-js-hw-08-gallery.git"
+    "url": "git+https://github.com/sabadyshyna/goit-js-hw-09-gallery-parcel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sabadyshyna/goit-js-hw-08-gallery/issues"
+    "url": "https://github.com/sabadyshyna/goit-js-hw-09-gallery-parcel/issues"
   },
-  "homepage": "https://github.com/sabadyshyna/goit-js-hw-08-gallery#readme",
-  "dependencies": {
-    "joi": "^17.2.1",
-    "shortid": "^2.2.16"
-  },
+  "homepage": "https://github.com/sabadyshyna/goit-js-hw-09-gallery-parcel#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   }
